@@ -199,6 +199,8 @@ void flushPlayer(PlayerObject* player, Options const& options) {
 
 }
 
+// i am adding a comment here just to let you know that there is code below me
+
 class $modify(CappedBaseLayer, GJBaseGameLayer) {
     void update(float dt) {
         if (dt > 0.f) {
